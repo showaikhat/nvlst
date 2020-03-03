@@ -33,6 +33,7 @@
 
 			<center>
 				<a href="#">Sign Up / Login</a>
+				<span>Hello</span>
 			</center>
 		</div>
 	</div>
